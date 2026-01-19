@@ -18,3 +18,32 @@ At **Gobode Labs**, we develop open-source cybersecurity tools designed for prof
 
 ## Lab Standards and Philosophy
 To understand the mathematical and ethical framework behind our code, please review our core documentation:
+
+* **[The Gobode Manifesto](./MANIFESTO.md)**: Our philosophical approach to mathematical software.
+* **[Security Policy](./SECURITY.md)**: Our standards for vulnerability disclosure and system resilience.
+* **[License](./LICENSE)**: All projects are released under the Apache License 2.0.
+
+---
+
+## Intellectual Toolkit
+The Gobode methodology is grounded in specific analytical tools:
+
+* **Formal Verification:** Using logic to prove code correctness and eliminate undefined states.
+* **Algorithmic Optimization:** Applying discrete mathematics to ensure high-performance execution.
+* **Structural Visualization:** Treating code as a spatial architecture rather than just text.
+
+
+
+---
+
+## Authorship and Leadership
+**Gobode Labs** is directed by its founder:
+
+* **Eduardo Morales**: *Lead Architect and Primary Researcher*
+
+Driven by curiosity and a commitment to understanding the fundamental nature of software, we seek to build tools that are as resilient as they are insightful.
+
+---
+
+## Licensing
+Unless otherwise stated, all Gobode Labs repositories are licensed under the **Apache License 2.0**. This ensures that the software remains open, transparent, and legally protected for the global research community.
