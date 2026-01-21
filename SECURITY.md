@@ -20,7 +20,7 @@ We value the work of security researchers.
 If you find a logical flaw or a security vulnerability:
 
 1. **Do Not** open a public issue.
-2. Email us at **[Insert Email Here]**.
+2. Email us at **[b4pr3y@gmail.com]**.
 3. Provide a detailed description of the flaw.
 
 ### Our Response Time
